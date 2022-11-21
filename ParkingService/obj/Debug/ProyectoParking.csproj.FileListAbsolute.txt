@@ -1,0 +1,12 @@
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\bin\Debug\ParkingService.exe.config
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\bin\Debug\ParkingService.exe
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\bin\Debug\ParkingService.pdb
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ProyectoParking.csproj.AssemblyReference.cache
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ProyectoParking.csproj.SuggestedBindingRedirects.cache
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ParkingService.ParkingService.resources
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ParkingService.Properties.Resources.resources
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ParkingService.Reserva.resources
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ProyectoParking.csproj.GenerateResource.cache
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ProyectoParking.csproj.CoreCompileInputs.cache
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ParkingService.exe
+C:\Users\haramirez1\Documents\parking-service-master\ParkingService\obj\Debug\ParkingService.pdb
